@@ -1,7 +1,7 @@
 # Partition-A-Medical-Image: Extracting Multiple Representative Sub-Regions for Few-Shot Medical Image Segmentation
 The Implementation of Paper: Partition-A-Medical-Image: Extracting Multiple Representative Sub-Regions for Few-Shot Medical Image Segmentation
 
-paper link: [PDF](https://arxiv.org/abs/2309.11172)
+paper link: [Partition A Medical Image: Extracting Multiple Representative Sub-Regions for Few-Shot Medical Image Segmentation ](https://arxiv.org/abs/2309.11172)
 ![](./fig.PNG)
 
 #### Abstract
